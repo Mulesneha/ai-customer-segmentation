@@ -1,7 +1,7 @@
 # 🛒 AI Customer Segmentation
 
 An interactive Machine Learning application that segments customers using **RFM Analysis** and **K-Means Clustering**.
-
+Live Link:https://ai-customer-segmentation-34mfuhvssyv7pqry6qexfj.streamlit.app/
 ## 🚀 Features
 
 - Customer transaction analysis
